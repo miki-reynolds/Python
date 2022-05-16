@@ -1,0 +1,1136 @@
+course = 'mooc-programming-22'
+[exercises.part01-01_emoticon]
+id = 151866
+checksum = '7d6702686a656d11dac05c1d6e512a29'
+
+[exercises.part01-02_seven_brothers]
+id = 151869
+checksum = '5bb3ad960463f405e6b0b0b302e7eb97'
+
+[exercises.part01-03_row_your_boat]
+id = 151870
+checksum = 'a1ace42bf45ce907587fcf45c1396d22'
+
+[exercises.part01-04_minutes_in_a_year]
+id = 151892
+checksum = '669188d402c646bcfd3944e1806a3717'
+
+[exercises.part01-05_print_code]
+id = 151887
+checksum = '72caa4118552a04986c800c91ccfe6c4'
+
+[exercises.part01-06_name_twice]
+id = 151868
+checksum = '661f3214fb6da17e39c7bcb6ac0a814b'
+
+[exercises.part01-07_name_and_exclamation_marks]
+id = 151894
+checksum = '4ccfaf3548092e50d0895387a57d2756'
+
+[exercises.part01-08_name_and_address]
+id = 151883
+checksum = '431cd20c040bfa86f2c356f7237a281d'
+
+[exercises.part01-09_utterances]
+id = 151874
+checksum = '1bc6b2a416ce96e31cdb952bd738777b'
+
+[exercises.part01-10_story]
+id = 151885
+checksum = '09b223dd07762fbd86f2fce5299095aa'
+
+[exercises.part01-10b_extra_space]
+id = 151891
+checksum = '6cfbfa55326d79039797758b2021418d'
+
+[exercises.part01-11_arithmetics]
+id = 151877
+checksum = '6ef6b4723ba24f2d7e2bb7500da42a0a'
+
+[exercises.part01-12_print_a_single_line]
+id = 151882
+checksum = '582612b0fb1443ab681af285b52ab0a9'
+
+[exercises.part01-13_times_five]
+id = 151889
+checksum = '1c4d2ed532cea223cf919d36c1f2b022'
+
+[exercises.part01-14_name_and_age]
+id = 151875
+checksum = 'a1355e1fcb0419a4df072e588b5bafe3'
+
+[exercises.part01-15_seconds_in_a_day]
+id = 151876
+checksum = 'e10abddd3e56870232775087cd18c50a'
+
+[exercises.part01-16_product]
+id = 151872
+checksum = 'd2b280b486411d1e01757b1b84c3f770'
+
+[exercises.part01-17_sum_and_product]
+id = 151890
+checksum = '479b1d5065ac545b20a4300d8fae36ce'
+
+[exercises.part01-18_sum_and_mean]
+id = 151893
+checksum = 'ef6b2ec2fb7abf456c8cec27e0864539'
+
+[exercises.part01-19_food_expenditure]
+id = 151873
+checksum = 'e39b1c70eb3e172ae11b0ebb6e401477'
+
+[exercises.part01-20_students_in_groups]
+id = 151888
+checksum = '783823688c5b281381130da872122ed7'
+
+[exercises.part01-21_orwell]
+id = 151864
+checksum = '9c99457dcba23b769e2c424e84a44b00'
+
+[exercises.part01-22_absolute_value]
+id = 151881
+checksum = '14b3d4d20daa01f1eccef4c942b4987f'
+
+[exercises.part01-23_soup_or_no_soup]
+id = 151878
+checksum = '648922693bf09bf06abc3f4b5faa029e'
+
+[exercises.part01-24_order_of_magnitude]
+id = 151886
+checksum = 'f3b87045cb2b90ea445e29f807c340d4'
+
+[exercises.part01-25_calculator]
+id = 151879
+checksum = 'e3a89a007021ff08dc7cf311ffac6e5a'
+
+[exercises.part01-26_temperatures]
+id = 151884
+checksum = '783a8d82fbb460b349ad4c7a70fe9f7f'
+
+[exercises.part01-27_daily_wages]
+id = 151865
+checksum = 'a8ce48cd95601406d9ed8dfff3c6950c'
+
+[exercises.part01-28_loyalty_bonus]
+id = 151871
+checksum = 'bd6fce0ff4f116f2868a092066cea500'
+
+[exercises.part01-29_what_to_wear_tomorrow]
+id = 151880
+checksum = '919730a5a83cc5d68bd13641e54ede39'
+
+[exercises.part01-30_quadratic_formula]
+id = 151867
+checksum = 'f0b1441fdb6cadf46ddcea61ceb34587'
+
+[exercises.part02-01_fix_syntax]
+id = 151773
+checksum = '35993f136ee871a5d119039b3a55267f'
+
+[exercises.part02-02_number_of_characters]
+id = 151785
+checksum = '41117cc6d9e434afa026d3fc269858b4'
+
+[exercises.part02-03_typecasting]
+id = 151792
+checksum = '453e4da027e3323adcc78d4b9eb6fc33'
+
+[exercises.part02-04_age_of_maturity]
+id = 151793
+checksum = '835f75d2c3e77bf0f835912f089f556b'
+
+[exercises.part02-05_greater_or_equal]
+id = 151787
+checksum = 'e0b05c908fa262b31d57f220f98c6168'
+
+[exercises.part02-06_elder]
+id = 151774
+checksum = 'f9fc203d9384cdb9dc854db74c99d982'
+
+[exercises.part02-07_alphabetically_last]
+id = 151788
+checksum = '9955b0779bf735bfd071d75df092a8cd'
+
+[exercises.part02-08_age_check]
+id = 151791
+checksum = '8508ab9507df611b8634281d9e67f65f'
+
+[exercises.part02-09_nephews]
+id = 151784
+checksum = '166ccdd14235c4916206d36f2cc228b5'
+
+[exercises.part02-10_grades_and_points]
+id = 151778
+checksum = '9862f79334a1dee85f1830dc2101bffb'
+
+[exercises.part02-11_fizzbuzz]
+id = 151780
+checksum = 'cc106c7099bd22ec5aa2232d04e5ec4d'
+
+[exercises.part02-12_leap_year]
+id = 151782
+checksum = '450107c221874daf275f67a0999db17d'
+
+[exercises.part02-13_alphabetically_in_the_middle]
+id = 151779
+checksum = 'ed01d78c69fb5fb634954c7447f7703b'
+
+[exercises.part02-14_gift_tax_calculator]
+id = 151772
+checksum = '7d60b2c6bf54ea1d785008ecba218281'
+
+[exercises.part02-15_shall_we_continue]
+id = 151781
+checksum = '424f6862dfe48996bc80635a7034d1a2'
+
+[exercises.part02-16_input_validation]
+id = 151777
+checksum = '5fb61df3aa0b880e13c5dd49d1db5235'
+
+[exercises.part02-17_countdown]
+id = 151775
+checksum = 'b33410e5bd1e316845dfcb1db7754e15'
+
+[exercises.part02-18_repeat_password]
+id = 151790
+checksum = '358fdafcf96d07c3ca1659b6f77eabb3'
+
+[exercises.part02-19_pin_and_number_of_attempts]
+id = 151776
+checksum = '55a150801fce9d24bd337b5363910414'
+
+[exercises.part02-20_next_leap_year]
+id = 151789
+checksum = 'a42794a687c203884cdda6979185cae9'
+
+[exercises.part02-21_story]
+id = 151786
+checksum = 'ebc55cebd01a1666515926ac442e03b7'
+
+[exercises.part02-22_working_with_numbers]
+id = 151783
+checksum = 'f25b73d20fcd421851c5213584acfec2'
+
+[exercises.part03-01_print_numbers]
+id = 152027
+checksum = 'ef5908aa85bf63bd226ee4c8dcfe2adc'
+
+[exercises.part03-02_countdown]
+id = 152052
+checksum = '01b73d699c925771f4d6ed3cb9c1b389'
+
+[exercises.part03-03_numbers]
+id = 152038
+checksum = '3b12a822132a1a7579ae861f7a6f8afc'
+
+[exercises.part03-04_powers_of_two]
+id = 152039
+checksum = '8dd5d07ebdc5440a071cd080cc0f3cb0'
+
+[exercises.part03-05_powers_of_base_n]
+id = 152028
+checksum = '56bc4499356a06e748134e3b648de3fc'
+
+[exercises.part03-06_consecutive_sum_v1]
+id = 152044
+checksum = 'f15efc48bd1e0f7677dc2dfb211f5ef1'
+
+[exercises.part03-07_consecutive_sum_v2]
+id = 152032
+checksum = 'a806f9d07e3d5f750bb30994d2464461'
+
+[exercises.part03-08_string_multiplied]
+id = 152049
+checksum = '2ba51757c1b05591c92715fd70957f1e'
+
+[exercises.part03-09_longer_string]
+id = 152037
+checksum = 'c7695e4ae2a8f6130ae567712818d8f1'
+
+[exercises.part03-10_end_to_beginning]
+id = 152055
+checksum = '5dee0d67c50f90306a8a9496b17f6396'
+
+[exercises.part03-11_second_and_second_to_last]
+id = 152025
+checksum = '366fa5842777e90474e165c54b263c34'
+
+[exercises.part03-12_line_of_hashes]
+id = 152030
+checksum = '20df7a55b7db28d0cfa8943c39093403'
+
+[exercises.part03-13_rectangle_of_hashes]
+id = 152035
+checksum = '079c454b453faee45414e166515166a9'
+
+[exercises.part03-14_underlining]
+id = 152040
+checksum = '208dbca3206494876dbac41bbcf2358d'
+
+[exercises.part03-15_right_aligned]
+id = 152053
+checksum = 'bccf171089fbd5aee27081977a872caf'
+
+[exercises.part03-16_framed_word]
+id = 152046
+checksum = '692821b5efa80fd21d71692aac62c6ce'
+
+[exercises.part03-17_substrings_part_1]
+id = 152054
+checksum = '3a2b1f30fb570e0ca10ebff467ee2de9'
+
+[exercises.part03-18_substrings_part_2]
+id = 152041
+checksum = 'b33219ba0a2c40aa501e2bee2ac8781b'
+
+[exercises.part03-19_does_it_contain_vowels]
+id = 152029
+checksum = '2aeec28302ae6e08cf618a02917fe79b'
+
+[exercises.part03-20_find_first_substring]
+id = 152036
+checksum = '77c5a31e613c92bf79e17192d8448662'
+
+[exercises.part03-21_find_all_substrings]
+id = 152023
+checksum = 'a8695952d4aa57b56e3088236ebccfc4'
+
+[exercises.part03-22_second_occurrence]
+id = 152034
+checksum = '019839504f03b3affc45e1edafe586ac'
+
+[exercises.part03-23_multiplication]
+id = 152050
+checksum = 'bb53f21f38043144f456f904e94095f7'
+
+[exercises.part03-24_first_letters_of_words]
+id = 152045
+checksum = 'a1fe43ab182d00257fdeb573a77722e1'
+
+[exercises.part03-25_factorial]
+id = 152043
+checksum = '18c3e51694800c2463265ce4313c0af0'
+
+[exercises.part03-26_flip_the_pairs]
+id = 152026
+checksum = '92850b9885f7ef827cf08b9d2295a84f'
+
+[exercises.part03-27_taking_turns]
+id = 152033
+checksum = '7509fd1c150da6984132b1b20ea5364e'
+
+[exercises.part03-28_seven_brothers]
+id = 152047
+checksum = '4185db45ced7d9b39daac61d82370bdb'
+
+[exercises.part03-29_first_character]
+id = 152051
+checksum = '6fb75a3c20aa6ed5bd23ccd2cd8e4a09'
+
+[exercises.part03-30_mean]
+id = 152048
+checksum = '549f843474124bad3d69eae53b6d6a66'
+
+[exercises.part03-31_print_many_times]
+id = 152031
+checksum = '99761c8f9100da65f03495a5b78349c2'
+
+[exercises.part03-32_square_of_hashes]
+id = 152024
+checksum = '87900e89c25159cc6258640508cf9113'
+
+[exercises.part03-33_chessboard]
+id = 152022
+checksum = '0f0856c78eacadfc24411c7dec04b1e2'
+
+[exercises.part03-34_word_squared]
+id = 152042
+checksum = '5c6ab198747858a4e3ad2ea6126cb461'
+
+[exercises.part04-01_hello_visual_studio_code]
+id = 151988
+checksum = '6ff5110c514df73e340d577cb29d6f8a'
+
+[exercises.part04-02_line]
+id = 151991
+checksum = '88236ca84b809b20ecbd32cea1de979d'
+
+[exercises.part04-03_box_of_hashes]
+id = 151981
+checksum = 'e7245d73cb1013343b7686a846c866a0'
+
+[exercises.part04-04_square_of_hashes]
+id = 151973
+checksum = '322afafa76e8289cd2d635215eef6ac0'
+
+[exercises.part04-05_square]
+id = 151984
+checksum = 'f0e8fa3293c4e3e0fd1a91d033b11940'
+
+[exercises.part04-06_triangle]
+id = 152001
+checksum = '81ddaa714f4929a804db8b10654ee065'
+
+[exercises.part04-07_shape]
+id = 151978
+checksum = 'fdc0ad51ba24856a940c2cb4b719d839'
+
+[exercises.part04-08_spruce]
+id = 151997
+checksum = '4135285ab482f72605bc8819763538d5'
+
+[exercises.part04-09_greatest_number]
+id = 151983
+checksum = '7fe6699b464c565f7f0fec0aa5dd416e'
+
+[exercises.part04-10_same_characters]
+id = 152000
+checksum = 'e02324d5fc76f1334317989e8661c024'
+
+[exercises.part04-11_first_second_last]
+id = 151974
+checksum = 'e64148d015fd10e2e77f4ef6bd323963'
+
+[exercises.part04-12_change_value_of_item]
+id = 151975
+checksum = 'ed0533ded15c0500985c53ba8f475476'
+
+[exercises.part04-13_add_items_to_list]
+id = 151968
+checksum = 'e96b35a96d9dd15c69fe16f27cc981d8'
+
+[exercises.part04-14_addition_and_removal]
+id = 151992
+checksum = 'e5441f69575875a97a73551477c9cc35'
+
+[exercises.part04-15_same_word_twice]
+id = 151998
+checksum = 'ab3143594a6c3d0e434105907ef5d521'
+
+[exercises.part04-16_list_twice]
+id = 151980
+checksum = '8ad452b7f3c8f996a9812c19867ff444'
+
+[exercises.part04-17_length_of_list]
+id = 151993
+checksum = '1d5db365a24bc8a1a5b74cc69d51c78d'
+
+[exercises.part04-18_mean]
+id = 152003
+checksum = '5f04046ac4127c762a2311f3775b5b7b'
+
+[exercises.part04-19_range_of_list]
+id = 151995
+checksum = 'c13aff81542e61f6f12e040abbfa122a'
+
+[exercises.part04-20_star_studded]
+id = 151987
+checksum = '67852906d85e838266a9fb3c97ab03ef'
+
+[exercises.part04-21_negative_to_positive]
+id = 151986
+checksum = '37ae07140e22d693d7402096e13fb3ea'
+
+[exercises.part04-22_list_of_stars]
+id = 151977
+checksum = 'ead218c0a22035233fe9184cf5096da5'
+
+[exercises.part04-23_anagrams]
+id = 151971
+checksum = 'c94b8ffbcbef94c6f9c0c90105eca072'
+
+[exercises.part04-24_palindromes]
+id = 151970
+checksum = 'a3a52878cb8a56124e6aff845a9f3af1'
+
+[exercises.part04-25_sum_of_positives]
+id = 152002
+checksum = 'c927f1d29fed4befceec4f6362b40986'
+
+[exercises.part04-26_even_numbers]
+id = 151990
+checksum = 'fb0bac4e57a3d8c84afe70d5d096c9d2'
+
+[exercises.part04-27_sum_of_lists]
+id = 151994
+checksum = '6a66687142cb94cf7873869a0a3b5e46'
+
+[exercises.part04-28_distinct_numbers]
+id = 151976
+checksum = '0fc65a11575a7fd6c206af23db9223ed'
+
+[exercises.part04-29_length_of_longest]
+id = 151966
+checksum = 'd6dfc150fd8f324b8c4f878228bd968a'
+
+[exercises.part04-30_shortest_in_list]
+id = 151989
+checksum = '1f927eeee8cdc97fd2c9baf3f05244fb'
+
+[exercises.part04-31_all_longest_in_list]
+id = 151972
+checksum = '8553634a78da91a882b2d6c1fd12d0cc'
+
+[exercises.part04-32_integers_to_strings]
+id = 151999
+checksum = '032add31aaa08e0556585d0419849af9'
+
+[exercises.part04-33_everything_reversed]
+id = 151979
+checksum = '0dc8ff90d2b273e099f456476962b27c'
+
+[exercises.part04-34_most_common_character]
+id = 151985
+checksum = '7ea01e38b0e5ec5416ccc0368af6aa83'
+
+[exercises.part04-35_no_vowels_allowed]
+id = 151969
+checksum = 'fb0488c675fd2aa4a20dcf8d19643aea'
+
+[exercises.part04-36_no_shouting_allowed]
+id = 151967
+checksum = '97bc3ce169f8ef1c56083ef79a99edbc'
+
+[exercises.part04-37_neighbours_in_list]
+id = 151982
+checksum = 'f0be3348861d51860ad1657daeee753b'
+
+[exercises.part04-38_grade_statistics]
+id = 151996
+checksum = 'd11053e44a1b9105c0ba7e4e8f7a8b39'
+
+[exercises.part05-01_longest_string]
+id = 151831
+checksum = 'b07e3e6068c072382e3c9cdd6a02dfd1'
+
+[exercises.part05-02_number_of_elements]
+id = 151820
+checksum = '94a54494d52ede51966f262e2cab23a9'
+
+[exercises.part05-03_go]
+id = 151818
+checksum = '20af6f3b020a2b52fecdb8d0cccd057c'
+
+[exercises.part05-04_sudoku_row]
+id = 151834
+checksum = 'be9ffa02080896391d4932e8d06d543b'
+
+[exercises.part05-05_sudoku_column]
+id = 151829
+checksum = 'c789bab2e3c3c0f831eba57eb72294e3'
+
+[exercises.part05-06_sudoku_block]
+id = 151810
+checksum = '752af2a2416adf8a77e591fadd6ac2b2'
+
+[exercises.part05-07_sudoku_grid]
+id = 151823
+checksum = '6004b082d50278c966b7eebd26499550'
+
+[exercises.part05-08_items_multiplied_by_two]
+id = 151817
+checksum = '0fb51a0630d92c80579a2ce80c02fe9a'
+
+[exercises.part05-09_remove_smallest]
+id = 151814
+checksum = 'ae1efdbdc397b8d5ea432f9279acb3b9'
+
+[exercises.part05-10_sudoku_print_and_add]
+id = 151836
+checksum = 'ae921e88cabf338c5f55c30f278d0349'
+
+[exercises.part05-11_sudoku_add_to_copy]
+id = 151826
+checksum = 'ded3f7d3863da53903662d877f87aee8'
+
+[exercises.part05-12_tic_tac_toe]
+id = 151824
+checksum = '88f561ee83e35fcc6ae1d4eb2ec53646'
+
+[exercises.part05-13_transpose_matrix]
+id = 151828
+checksum = '5efb7b749919ef53231e905585285ee8'
+
+[exercises.part05-14_times_ten]
+id = 151827
+checksum = '1035a32dd41bdf5617d8c467cb7112a8'
+
+[exercises.part05-15_factorials]
+id = 151830
+checksum = '383a8a98d65c921d4fd811242cc9c5e9'
+
+[exercises.part05-16_histogram]
+id = 151813
+checksum = '83e183d8fa7f13da05ad80cb388b4dcd'
+
+[exercises.part05-17_phone_book_v1]
+id = 151819
+checksum = '832ca1be785ffe2ecb4f92024bfbc9e4'
+
+[exercises.part05-18_phone_book_v2]
+id = 151821
+checksum = '5ede101571f99ab7def74f83eb0cba1c'
+
+[exercises.part05-19_invert_dictionary]
+id = 151811
+checksum = 'eb03617c0e54c57ae60789773dc09097'
+
+[exercises.part05-20_numbers_spelled_out]
+id = 151822
+checksum = 'abc6c02bde5fb0d920b1a07cc47914a6'
+
+[exercises.part05-21_movie_database]
+id = 151816
+checksum = 'ecb2c3b0bd61f6f87fd5d4a37f063320'
+
+[exercises.part05-22_find_movies]
+id = 151815
+checksum = '9ebad60ecc2bbea2ad20bc56010c4755'
+
+[exercises.part05-23_create_tuple]
+id = 151825
+checksum = '0e91870d4641d2a9192b0030fe1fe396'
+
+[exercises.part05-24_oldest_person]
+id = 151812
+checksum = '7c57ea158863d907b4bbe736db9f0a7c'
+
+[exercises.part05-25_older_people]
+id = 151833
+checksum = 'c3fa78b871a1bd2c37c8a583fa37c567'
+
+[exercises.part05-26_student_database]
+id = 151832
+checksum = 'a788468ed079d4b9fa926b77755d4535'
+
+[exercises.part05-27_letter_square]
+id = 151835
+checksum = '9a0e4cb150182363397f5cf5c3ce25ae'
+
+[exercises.part06-01_largest_number]
+id = 151932
+checksum = '46e3f202ca77182a88aa9b5753631823'
+
+[exercises.part06-02_fruit_market]
+id = 151929
+checksum = 'd9ffa9fbfa0d4c24128b8c3013e2a65b'
+
+[exercises.part06-03_matrix]
+id = 151933
+checksum = '6346498646a3edb948e70974d28f94ee'
+
+[exercises.part06-04_course_grading_part_1]
+id = 151928
+checksum = '908965f54afbcccc6d430cd7a627739f'
+
+[exercises.part06-05_course_grading_part_2]
+id = 151940
+checksum = '597cf2ad11f9ed987f7f511eae976160'
+
+[exercises.part06-06_course_grading_part_3]
+id = 151938
+checksum = 'bc764b3d78181f0c19dae8e0fd5a2b45'
+
+[exercises.part06-07_spellchecker]
+id = 151946
+checksum = '575efe56b5537c5a2d0613dfd40a113c'
+
+[exercises.part06-08_recipe_search]
+id = 151939
+checksum = '32a5dc738c08dd4c055f62883863789f'
+
+[exercises.part06-09_city_bikes]
+id = 151942
+checksum = 'df435b294af692dfdf7863e4996b1a83'
+
+[exercises.part06-10_inscription]
+id = 151934
+checksum = '310e8190dadc3c3a37801c62c702a73a'
+
+[exercises.part06-11_diary]
+id = 151936
+checksum = '8a4220fd67534a413735a5fe21cc1456'
+
+[exercises.part06-12_filtering_file_contents]
+id = 151944
+checksum = '64aa0c5e9d34fdd7d9faf6c5018a7697'
+
+[exercises.part06-13_store_personal_data]
+id = 151937
+checksum = 'fa0ea75bee46068182036583cb546125'
+
+[exercises.part06-14_course_grading_part_4]
+id = 151941
+checksum = '79e3e37956cec8b3a0752736df837a5f'
+
+[exercises.part06-15_word_search]
+id = 151945
+checksum = '71584f87762012c030cf4066ed00a138'
+
+[exercises.part06-16_dictionary_file]
+id = 151931
+checksum = '230777867e3fcfeaefb6843bf8735a66'
+
+[exercises.part06-17_read_input]
+id = 151935
+checksum = 'c334fe672e353b19ac81a14c772cde33'
+
+[exercises.part06-18_parameter_validation]
+id = 151943
+checksum = '8430e46bb899b981b9e3ab6924653479'
+
+[exercises.part06-19_incorrect_lottery_numbers]
+id = 151930
+checksum = '37e8b9d9635bfbc5cf61fed73b9e7ba5'
+
+[exercises.part07-01_hypotenuse]
+id = 152021
+checksum = '4a0d14f4a063e83fc4e12cf82d9abf5e'
+
+[exercises.part07-02_special_characters]
+id = 152008
+checksum = '8baca3a0fe104370ec088e660f466c8e'
+
+[exercises.part07-03_fractions]
+id = 152013
+checksum = 'abd51b36f980295f1735329250003879'
+
+[exercises.part07-04_lottery_numbers]
+id = 152014
+checksum = '29b8606c53f903ad9804938e7a581e56'
+
+[exercises.part07-05_password_generator_part_1]
+id = 152007
+checksum = 'e728a2d6af9301a412f65d0a42475c7a'
+
+[exercises.part07-06_password_generator_part_2]
+id = 152019
+checksum = '02530939b7784587cde796a5e150206a'
+
+[exercises.part07-07_dice_roller]
+id = 152012
+checksum = '889e66061bc2464583ef16e14d25d8b9'
+
+[exercises.part07-08_random_words]
+id = 152017
+checksum = '2c1ac091917bdb9a701a097747a44d91'
+
+[exercises.part07-09_how_old]
+id = 152020
+checksum = 'bc8bae0687a6f55e97eb9665e043c436'
+
+[exercises.part07-10_valid_pic]
+id = 152010
+checksum = '5fea8ec3a95d4139e4570ba7675928ee'
+
+[exercises.part07-11_screen_time]
+id = 152004
+checksum = '5a293f295949cbd21c4ffa7d0db50229'
+
+[exercises.part07-12_json_files]
+id = 152005
+checksum = '8fa3d8d551135eeac8726d22a1860386'
+
+[exercises.part07-13_course_statistics]
+id = 152009
+checksum = '7097c6d44a7e6a05e0c5866564d126cf'
+
+[exercises.part07-14_who_cheated]
+id = 152016
+checksum = '089abdf280e54cd2efb5711fb40cef8a'
+
+[exercises.part07-15_who_cheated_2]
+id = 152018
+checksum = 'b051105d19a798277f0d328b6daeda7f'
+
+[exercises.part07-16_spellchecker_2]
+id = 152006
+checksum = '702d3076ef252a3f9ab96704e1d28e4c'
+
+[exercises.part07-17_string_helper]
+id = 152011
+checksum = 'a7e4fd794bc52ab4217c9aade4dc748a'
+
+[exercises.part07-18_own_programming_language]
+id = 152015
+checksum = '7e3eb4d1d078df8e1711a96a79fc8d87'
+
+[exercises.part08-01_smallest_average]
+id = 151794
+checksum = '410f610d3ff3ce8a650d600030803749'
+
+[exercises.part08-02_row_sums]
+id = 151807
+checksum = '5c0de1525604edb33138c995e63b8080'
+
+[exercises.part08-03_list_years]
+id = 151795
+checksum = '3501874c384f7705e81dadf2cbdf3d14'
+
+[exercises.part08-04_shopping_list]
+id = 151808
+checksum = '6766c18b4a9c2f7acdca5c9fbbd5e263'
+
+[exercises.part08-05_book]
+id = 151805
+checksum = '1912bb8fd388e5e41818cd49b22dc158'
+
+[exercises.part08-06_three_classes]
+id = 151806
+checksum = '2cbe958dda2f33a7e9c0951fcc802a7e'
+
+[exercises.part08-07_pet]
+id = 151796
+checksum = '15792625405a01b0971c2e08fe67c36b'
+
+[exercises.part08-08_older_book]
+id = 151802
+checksum = '424aebf2c4f37a1d6113f0db9bed036f'
+
+[exercises.part08-09_books_of_genre]
+id = 151797
+checksum = 'cbd935124a06fc24fa011a9f44ec6beb'
+
+[exercises.part08-10_decreasing_counter]
+id = 151799
+checksum = 'c7e5c3295e6ac033f4ff87c637e98b2f'
+
+[exercises.part08-11_first_and_last_name]
+id = 151800
+checksum = '6deebb6ec8c5ed50cd92dfba8920e522'
+
+[exercises.part08-12_number_stats]
+id = 151801
+checksum = 'dcd6bfeb99bf4863f1a8749cb4e90842'
+
+[exercises.part08-13_stopwatch]
+id = 151804
+checksum = '5d8f9cabfbdd609eabdd9e905c43d0b5'
+
+[exercises.part08-14_clock]
+id = 151803
+checksum = '8b686468e32861775da59198a9da47b3'
+
+[exercises.part08-15_lunchcard]
+id = 151809
+checksum = '44d990b297fc2210fffa0f29c2dba69d'
+
+[exercises.part08-16_series]
+id = 151798
+checksum = '42cfa88ce7361368b083dbefcec4212f'
+
+[exercises.part09-01_fastest_car]
+id = 151863
+checksum = 'f74f2e3d5a975d0bc679eb542bdb198f'
+
+[exercises.part09-02_passing_submissions]
+id = 151862
+checksum = 'ea5a4ac1212709dc3e3c49ef87654e02'
+
+[exercises.part09-03_baby_centre]
+id = 151855
+checksum = '5f5be9c521f2aa90fbbcb106a9e92471'
+
+[exercises.part09-04_lunchcard_and_paymentterminal]
+id = 151850
+checksum = '8d2a36f90178e6a9fcc184b91be8d415'
+
+[exercises.part09-05_comparing_properties]
+id = 151857
+checksum = 'b1c0fc489d625e012494876739415658'
+
+[exercises.part09-06_pets]
+id = 151858
+checksum = '3e8a2f8f9dd7837c99c6d333bf261494'
+
+[exercises.part09-07_box_of_presents]
+id = 151849
+checksum = 'be80e5cebdee0276d8986e5216150665'
+
+[exercises.part09-08_shortest_in_room]
+id = 151860
+checksum = 'ed96ecb08e34b32cf1963b392ee9a8f1'
+
+[exercises.part09-09_car]
+id = 151859
+checksum = 'c4866594aebc767e84145eebb36f332e'
+
+[exercises.part09-10_recording]
+id = 151852
+checksum = 'e65493a25736d7d5ffe4770c831280a8'
+
+[exercises.part09-11_weather_station]
+id = 151854
+checksum = '4ea9d78a52c0a0816a27a3f3153a6b1f'
+
+[exercises.part09-12_service_charge]
+id = 151856
+checksum = 'a28328ed9b4a23780e4e3407f795cea8'
+
+[exercises.part09-13_postcodes]
+id = 151861
+checksum = 'c38ef8c8e47bc2b4ac4ca7e0b5206898'
+
+[exercises.part09-14_list_helper]
+id = 151853
+checksum = '382e684d51996d2531499bf0fa3264eb'
+
+[exercises.part09-15_item_suitcase_hold]
+id = 151851
+checksum = 'bba8512b0e3d30f0250e7501cf5d4b08'
+
+[exercises.part10-01_laptop_computer]
+id = 151846
+checksum = '78be1cb53b03eb258f7461f39fb12c98'
+
+[exercises.part10-02_game_museum]
+id = 151844
+checksum = '7b9e08ff47b8c1e89178c50cd9cc7c5a'
+
+[exercises.part10-03_areas]
+id = 151848
+checksum = '35ac4603d6dd34dd88488a88d02da5f9'
+
+[exercises.part10-04_word_game]
+id = 151838
+checksum = '92afee985f7ffaaf88b41bb0cc28f5f1'
+
+[exercises.part10-05_supergroup]
+id = 151839
+checksum = 'c0a6a5404e8c9cd42654bb345a2054fd'
+
+[exercises.part10-06_secret_magic_potion]
+id = 151841
+checksum = 'ca0ae4740045e4e63fc610c3594f7f04'
+
+[exercises.part10-07_money]
+id = 151842
+checksum = '9c52b0ba03abf7006156e061c58ea68b'
+
+[exercises.part10-08_simple_date]
+id = 151840
+checksum = '17e66e204c330caaffc5bf18e2934832'
+
+[exercises.part10-09_iterable_shopping_list]
+id = 151843
+checksum = 'ff261252934f25cfae098c9663831bdd'
+
+[exercises.part10-10_phone_book_v1]
+id = 151847
+checksum = '1fc4af758544bada881ea424fdce9cfe'
+
+[exercises.part10-11_phone_book_v2]
+id = 151845
+checksum = '8f878e93da89f2aef21bceec70249cee'
+
+[exercises.part10-12_course_records]
+id = 151837
+checksum = '596b1834b0a944a9fe413fed8b07433f'
+
+[exercises.part11-01_square_roots]
+id = 151955
+checksum = '3bae2659361d6e5afe68177f0fde791d'
+
+[exercises.part11-02_rows_of_stars]
+id = 151965
+checksum = '59942ea557ea56f8e70bd1d363055e44'
+
+[exercises.part11-03_best_exam_result]
+id = 151953
+checksum = 'ecf486baa4659a9bc3e97b45e89bf342'
+
+[exercises.part11-04_lengths]
+id = 151947
+checksum = '48b25d944a756abe869b625d8edb7002'
+
+[exercises.part11-05_remove_smaller_than]
+id = 151949
+checksum = 'ed36d0c0cb4a1e1e726605d5a41d9cc0'
+
+[exercises.part11-06_begin_with_vowel]
+id = 151952
+checksum = 'd7b489a56edc6fa00c5b573b64cb1afb'
+
+[exercises.part11-07_lottery_numbers]
+id = 151963
+checksum = '6769682aba1236241a432fb38d5d0531'
+
+[exercises.part11-08_filter_forbidden]
+id = 151962
+checksum = '4bc9cf30b7f4444c69d040ad9ee61b0d'
+
+[exercises.part11-09_products_in_shopping_list]
+id = 151948
+checksum = 'f96e64138cc83fbdc56842af9e8a98d3'
+
+[exercises.part11-10_cheaper_properties]
+id = 151951
+checksum = 'fe1a9e876b1b06f32c8191c9a718068a'
+
+[exercises.part11-11_lengths_of_strings]
+id = 151958
+checksum = '414f8c7b1f064dd2c516f1ff0b45098c'
+
+[exercises.part11-12_most_common_words]
+id = 151957
+checksum = 'b2dd2b389f0c254d6df91ae7e8a20f02'
+
+[exercises.part11-13_add_numbers_to_list]
+id = 151950
+checksum = '266c7b59b656f17c455bf3eb90c80106'
+
+[exercises.part11-14_recursive_sum]
+id = 151961
+checksum = '9d6ed6af8064bfb8fd1c690dc0ffc550'
+
+[exercises.part11-15_balanced_brackets]
+id = 151964
+checksum = 'f74ca29943145f685f9d4925c2393cd5'
+
+[exercises.part11-16_greatest_node]
+id = 151960
+checksum = 'e14f62efc6d8516e300c1dc555fe030b'
+
+[exercises.part11-17_bosses_and_subordinates]
+id = 151956
+checksum = 'a87bd264a8fc89f83d3963a74cd2fbf4'
+
+[exercises.part11-18_order_book]
+id = 151954
+checksum = '30ee044e23cc1a1c26d69995a3ffff33'
+
+[exercises.part11-19_order_book_application]
+id = 151959
+checksum = 'bd631833f22f109c3befacd2fe7c0fd3'
+
+[exercises.part12-01_remaining_stock]
+id = 151914
+checksum = 'eff800eed89215acf7796c4d05be8140'
+
+[exercises.part12-02_seasons]
+id = 151919
+checksum = '727ba6b8354f02acdcfc145649f18aaa'
+
+[exercises.part12-03_ratings]
+id = 151917
+checksum = 'c501292e94ec03ff92d4d6fea860a07e'
+
+[exercises.part12-04_climbing_route]
+id = 151916
+checksum = '44e69a5464d4a71026f113460be2586e'
+
+[exercises.part12-05_climbing_areas]
+id = 151925
+checksum = '4096b3db2ccba2c17bc522ea512ba1df'
+
+[exercises.part12-06_ballplayers]
+id = 151921
+checksum = '9009ca94db741eab25d856f64fa133c5'
+
+[exercises.part12-07_product_search]
+id = 151922
+checksum = 'b59ecc7fa57daa09d8b5f65ee380b0ee'
+
+[exercises.part12-08_even_numbers]
+id = 151926
+checksum = '990233049b39ea4c001a06590d5ed471'
+
+[exercises.part12-09_prime_numbers]
+id = 151913
+checksum = 'd8aecd8cd44a50fa4a7a501c3497ea02'
+
+[exercises.part12-10_random_words]
+id = 151918
+checksum = '90a6731a11a2a6c849b86269dcf3f441'
+
+[exercises.part12-11_attempted_courses]
+id = 151927
+checksum = '59d7ee7d7d5b128411c09f156fc040b8'
+
+[exercises.part12-12_filtering_attempts]
+id = 151923
+checksum = 'b6b53db6e251bdfc8fec9bb0c9851b21'
+
+[exercises.part12-13_credits]
+id = 151920
+checksum = '578c43bfc8e3b638cb52b2660577af29'
+
+[exercises.part12-14_regular_expressions]
+id = 151924
+checksum = '2bdab6fb2aee6b8ce6ab210f11940707'
+
+[exercises.part12-15_hockey_statistics]
+id = 151915
+checksum = 'b74420f434daea7114725d549797cdd9'
+
+[exercises.part13-01_four_robots]
+id = 151902
+checksum = '48ef065117e1f3bc9da822688684659d'
+
+[exercises.part13-02_robots_row]
+id = 151898
+checksum = '1e6bce2bd5084c432221eef4ae6e8153'
+
+[exercises.part13-03_hundred_robots]
+id = 151912
+checksum = '2184d1b6c587fb24fca14bda410236a9'
+
+[exercises.part13-04_random_robots]
+id = 151907
+checksum = 'dec15ad8eff05395699e2686db7a1365'
+
+[exercises.part13-05_vertical_movement]
+id = 151906
+checksum = '453e1fd8e320dd5768fd42793a90899b'
+
+[exercises.part13-06_round_the_perimeter]
+id = 151909
+checksum = 'edde579a3b969d2e2db9134edea8c801'
+
+[exercises.part13-07_two_robots]
+id = 151903
+checksum = 'eb35b15a680ddd2dbeb27e60189f62a5'
+
+[exercises.part13-08_robot_circle]
+id = 151911
+checksum = '9ab6aecfc7e70474ac0ff81aec9af6c2'
+
+[exercises.part13-09_bouncing_ball]
+id = 151910
+checksum = '33cbc790593217ac4ab9aec59ce33a74'
+
+[exercises.part13-10_robot_invasion]
+id = 151900
+checksum = '0a64bd66fcd53d51081c31a4d60c72f7'
+
+[exercises.part13-11_four_directions]
+id = 151905
+checksum = '89b537fc47a3a67f684f8555b6d1e0c1'
+
+[exercises.part13-12_four_walls]
+id = 151908
+checksum = '48da74c7f539349bc96ca9e8a88b0444'
+
+[exercises.part13-13_two_players]
+id = 151897
+checksum = '898cac62914bc83009dcfdc99efb60ab'
+
+[exercises.part13-14_robot_and_mouse]
+id = 151899
+checksum = '821aae237ae80db29f80805cd5c03fc3'
+
+[exercises.part13-15_robot_location]
+id = 151896
+checksum = '2b29d1b620319a98647f5a6ecfc749fd'
+
+[exercises.part13-16_clock]
+id = 151901
+checksum = 'd7d7bc0857b5b1824d16bb92c01c8c05'
+
+[exercises.part13-17_asteroids]
+id = 151904
+checksum = 'dce477bc29547692ed623175a430e4bf'
+
+[exercises.part14-01_own_game]
+id = 151895
+checksum = '72b97cd32a41fa8b77bd0c2fa263254d'
